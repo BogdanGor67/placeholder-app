@@ -1,5 +1,7 @@
 # placeholder-app
 
+https://bogdangor67.github.io/placeholder-app/
+
 ## Project setup
 ```
 npm install
