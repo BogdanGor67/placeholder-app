@@ -1,6 +1,6 @@
 # placeholder-app
 
-https://bogdangor67.github.io/placeholder-app/
+https://bogdangor67.github.io/jsonplaceholder-app/
 
 ## Project setup
 ```
